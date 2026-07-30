@@ -1,0 +1,21 @@
+# ==========================================================
+# SonarQube Configuration Example
+# ==========================================================
+#
+# Replace the placeholder values with your own environment
+# settings before using this configuration.
+#
+# Never commit real passwords, tokens, or other credentials
+# to a public repository.
+# ==========================================================
+
+# PostgreSQL database connection
+sonar.jdbc.url=jdbc:postgresql://localhost/your_sonarqube_database
+sonar.jdbc.username=your_sonarqube_user
+sonar.jdbc.password=your_database_password
+
+# SonarQube web server
+sonar.web.port=9000
+
+# Elasticsearch
+sonar.search.port=9001

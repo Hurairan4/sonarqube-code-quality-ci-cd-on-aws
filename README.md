@@ -1,7 +1,7 @@
 # SonarQube Code Quality & CI/CD on AWS
 
 ![AWS](https://img.shields.io/badge/AWS-EC2-orange)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-26.04-E95420)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420)
 ![SonarQube](https://img.shields.io/badge/SonarQube-Code_Quality-4E9BCD)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF)
@@ -48,7 +48,7 @@ SonarQube was deployed on an AWS EC2 instance, connected to a PostgreSQL databas
 | Category | Technology |
 |----------|------------|
 | Cloud Platform | AWS EC2 |
-| Operating System | Ubuntu 26.04 LTS |
+| Operating System | Ubuntu 24.04 LTS |
 | Code Quality | SonarQube |
 | Database | PostgreSQL |
 | CI/CD | GitHub Actions |
